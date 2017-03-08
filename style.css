@@ -10,14 +10,19 @@ ul {
 }
 
 li {
-    float: center;
+    float: left;
+}
+
+li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 30px 35px;
-    text-decoration: bold;
-    background-color: green;
-    display: inline;
+    padding: 30px 30px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
 }
 
 h1 { 

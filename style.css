@@ -11,24 +11,13 @@ ul {
 
 li {
     float: center;
-}
-
-li {
     display: block;
     color: white;
     text-align: center;
     padding: 30px 35px;
     text-decoration: bold;
-}
-
-
-li {
     background-color: green;
-}
-
-
-li {
-  display: inline;
+    display: inline;
 }
 
 h1 { 

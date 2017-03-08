@@ -45,10 +45,10 @@ p { text-align: center;
     font-size: 25px;
 }
 img { float: center;
-    margin: 200px;
+    margin: 100px;
     border-style: solid;
     border-color: green;
-    width: 150px;
-    height: 150px;
+    width: 350px;
+    height: 350px;
     
 }
